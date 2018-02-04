@@ -1,0 +1,13 @@
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\bin\Debug\vissim二次开发测试.exe.config
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\bin\Debug\vissim二次开发测试.exe
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\bin\Debug\vissim二次开发测试.pdb
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.csprojResolveAssemblyReference.cache
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.csproj.ResolveComReference.cache
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.Form1.resources
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.Properties.Resources.resources
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.csproj.GenerateResource.Cache
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.csproj.CoreCompileInputs.cache
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.exe
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.pdb
+D:\study\jks\vissim\vissim二次开发测试\vissim二次开发测试\vissim二次开发测试\obj\Debug\vissim二次开发测试.Main.resources
